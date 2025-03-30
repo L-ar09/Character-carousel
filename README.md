@@ -2,6 +2,8 @@
 ## Project Overview
 This repository contains a simple web application that allows users to search for an anime and view its characters. The application fetches data from the Jikan API and displays character cards with a flip effect, along with an animated image carousel.
 
+<img src="./character_carousel.png" alt="screen"/>
+
 ## Table of content
 - Features
 - Technologies used
